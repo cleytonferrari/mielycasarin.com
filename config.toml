@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://mielycasarin.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Miely Casarin - Fotografias'
+theme = "blank"

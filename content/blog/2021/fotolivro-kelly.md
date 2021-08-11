@@ -1,10 +1,16 @@
 ---
 title: "Fotolivro Kelly"
 date: 2021-08-11T11:47:43-04:00
+description: "Veja como ficou o fotolivro da Kelly"
 draft: true
+categories:
+  - Newborn
+images:
+  - /img/05.jpg  
 ---
 
 # Fotolivro | Kelly | Acompanhamento
+Carlos Lino Ferreira de 57 anos morreu na última segunda-feira (10), após ser esmagado por uma árvore durante uma derrubada. O incidente aconteceu em uma propriedade que fica na Linha C-29, KM 60, zona rural de Cujubim.<br /><br />De acordo com informações, a vítima estava trabalhando na localidade realizando trabalho de derrubada, amigos de trabalho notaram que o motosserra que Carlos usava não foi mais ligado e ao ver oque estava acontecendo os companheiros de trabalho acabaram encontrando a vítima já sem vida de baixo de um tronco de uma árvore.<br /><br />A Polícia foi acionada e juntamente com a pericia técnica da Polícia Civil foram ao local e registraram o caso.<br >Foto e informações: Ariquemes 190
 
 This is a paragraph.
 

@@ -21,6 +21,10 @@ paginate = 4
   name = "Contato"
   url = "/contato"
 
+[[menu.main]]
+    name = "Categorias"
+    url = "/categories"
+
 [[menu.social]]
     name = "Instagram"
     url = "https://www.instagram.com/miely_fotografia/"
@@ -39,9 +43,9 @@ paginate = 4
   name = "Privacidade"
   url = "/privacidade"
 
-[[menu.main]]
-    name = "Categorias"
-    url = "/categories"
+[[menu.footer]]
+  name = "Contato"
+  url = "/contato"
 
 #conteudo relacionado
 [related]

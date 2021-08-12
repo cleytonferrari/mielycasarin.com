@@ -1,6 +1,8 @@
 {{ define "main" }}
+<div class="container">
 <section class="section">
   <article>
+    <div class="columns is-centered">
     <div class="column max-800px">
         <h1 class="title is-1">{{ .Title }}</h1>
         <div class="title subtitle heading is-6">
@@ -15,7 +17,7 @@
                     <div class="column">
                     <p>{{ .Site.Params.Author }}</p>
                     <p><time>{{ .PublishDate.Format "January 2, 2006" }}</time> | 
-                        {{ .ReadingTime }} {{ if eq .ReadingTime 1 }} minute {{ else }} minutes {{ end }}</p>
+                        {{ .ReadingTime }} {{ if eq .ReadingTime 1 }} minuto {{ else }} minutos {{ end }}</p>
                     </div>
                 </div>
                 </div>
@@ -35,11 +37,12 @@
           {{ .Content }}
         </div>
       </div>
+    </div>
   </article>
 </section>
 <section class="section">
     <div class="columns is-centered">
-      <div class="column max-800px">
+      <div class="column max-1100px">
         <div class="columns is-mobile">
           <div class="column has-text-left">
             {{ with .PrevInSection }}
@@ -59,7 +62,7 @@
   </section>
   <section class="section">
     <div class="columns is-centered">
-        <div class="column max-800px">
+        <div class="column max-1100px">
             <div class="content">
                 <h2>Veja também</h2>
             </div>
@@ -74,4 +77,5 @@
         </div>
     </div>
 </section>
+</div>
 {{ end }}

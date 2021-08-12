@@ -1,5 +1,5 @@
 #baseURL = 'https://mielycasarin.onrender.com/'
-baseURL = 'https://kind-jackson-8b29f8.netlify.app/'
+baseURL = 'https://mielycasarin.netlify.app/'
 
 googleAnalytics = ""#googleAnalytics = "UA-123-45"
 languageCode = 'pt-br'

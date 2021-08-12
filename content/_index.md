@@ -9,13 +9,13 @@ images:
 .main-image {
     background-position: center;
     background-size: cover;
-    background-image: url(/img/04.jpg);
+    background-image: url(/img/acompanhamento/05.jpg);
 }
 </style>
 <section class="hero is-large is-dark main-image">
     <div class="hero-body">
         <div class="container has-text-centered">
-            <h2 class="title is-1">Você está pronto?</h2>
+            <h2 class="title is-1">Registre momentos inesquecíveis!</h2>
         </div>
     </div>
 </section>

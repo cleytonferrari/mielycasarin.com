@@ -13,28 +13,25 @@ collections:
       preview: false
     fields:
       - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Data', name: 'date', widget: 'datetime' }
+      - { label: 'Data', name: 'date', widget: 'datetime', date_format: "DD.MM.YYYY",  time_format: "HH:mm"}
       - { label: 'Resumo', name: 'description', widget: 'string' }
 
       - name: categories
-        label: "Categorias"
+        label: 'Categorias'
         widget: select
-        default: ["Acompanhamento"]
+        default: ['Acompanhamento']
         multiple: true
         min: 1
         max: 2
         options:
-          - { label: "Newborn", value: "Newborn" }
-          - { label: "Acompanhamento", value: "Acompanhamento" }
-          - { label: "Aniversário", value: "Aniversário" }
+          - { label: 'Newborn', value: "Newborn" }
+          - { label: 'Acompanhamento', value: "Acompanhamento" }
+          - { label: 'Aniversário', value: "Aniversário" }
 
       - name: images
-        label: "Imagens"
-        widget: "image"
-        choose_url: false
-        default: "/img/03.jpg"
-        media_library:
-          config:
-            multiple: true
+        label: 'Imagens'
+        widget: list
+        summary: '{{fields.image}}'
+        field: {label: Image, name: image, widget: image}
 
-      - { label: 'Conteudo', name: 'body', widget: 'markdown' }
+      - { label: 'Conteúdo', name: body, widget: markdown, sanitize_preview: true}

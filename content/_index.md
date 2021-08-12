@@ -5,5 +5,26 @@ images:
 - /card.jpg
 ---
 
-# Heading
-This is sample content
+<style>
+.main-image {
+    background-position: center;
+    background-size: cover;
+    background-image: url(/img/04.jpg);
+}
+</style>
+<section class="hero is-large is-dark main-image">
+    <div class="hero-body">
+        <div class="container has-text-centered">
+            <h2 class="title is-1">Você está pronto?</h2>
+        </div>
+    </div>
+</section>
+
+{{< section >}}
+## Nossa missão
+
+É mostrar o sentimento e retratar a sua personalidade na fotografia e de sua família. Será um Prazer contar a tua história e eternizar os momentos mais importante de sua vida.
+
+{{< /section >}}
+
+{{< blogposts count=6 >}}

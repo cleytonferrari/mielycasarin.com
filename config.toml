@@ -56,3 +56,9 @@ paginate = 4
     [[related.indices]]
         name = "date"
         weight = 10
+
+#habilida o uso de html com md
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true

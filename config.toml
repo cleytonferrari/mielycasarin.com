@@ -1,4 +1,4 @@
-baseURL = 'http://mielycasarin.com/'
+baseURL = 'https://mielycasarin.onrender.com/'
 googleAnalytics = ""#googleAnalytics = "UA-123-45"
 languageCode = 'pt-br'
 title = 'Miely Casarin'

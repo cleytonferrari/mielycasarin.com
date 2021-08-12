@@ -42,3 +42,17 @@ paginate = 4
 [[menu.main]]
     name = "Categorias"
     url = "/categories"
+
+#conteudo relacionado
+[related]
+    threshold = 0 
+    includeNewer = true
+    toLower = false
+
+    [[related.indices]]
+        name = "categories"
+        weight = 100
+
+    [[related.indices]]
+        name = "date"
+        weight = 10

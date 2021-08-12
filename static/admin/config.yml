@@ -17,24 +17,24 @@ collections:
       - { label: 'Resumo', name: 'description', widget: 'string' }
 
       - name: categories
-        label : Categorias
-        widget: object
-        fields:
-          - {name: categories, widget: select, options: [Newborn, Acompanhamento, Aniversário], required: true}
+        label: "Categorias"
+        widget: select
+        default: ["Acompanhamento"]
+        multiple: true
+        min: 1
+        max: 2
+        options:
+          - { label: "Newborn", value: "Newborn" }
+          - { label: "Acompanhamento", value: "Acompanhamento" }
+          - { label: "Aniversário", value: "Aniversário" }
 
       - name: images
-        label : Imagems
-        widget: object
-        fields:
-          - { name: image, widget: image }
-
-      - name: slider_section
-        label: Slider
-        widget: object
-        fields:
-          - name: images  
-            widget: list
-            field: {label: Image, name: image, widget: image}
-          - {name: background-color, widget: select, options: [Dark, Medium, Light], required: false}
+        label: "Imagens"
+        widget: "image"
+        choose_url: false
+        default: "/img/03.jpg"
+        media_library:
+          config:
+            multiple: true
 
       - { label: 'Conteudo', name: 'body', widget: 'markdown' }

@@ -2,7 +2,6 @@
 title: "Lorem Ipsum"
 date: 2021-08-11T13:43:10-04:00
 description: "This is a short description of the page"
-draft: true
 images:
   - /img/03.jpg
   - /img/04.jpg

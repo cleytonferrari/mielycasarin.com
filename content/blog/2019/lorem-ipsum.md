@@ -11,6 +11,7 @@ images:
 categories:
   - Newborn
   - Familia
+  - Acompanhamento
 ---
 
 ## What is Lorem Ipsum?

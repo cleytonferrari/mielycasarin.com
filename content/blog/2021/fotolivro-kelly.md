@@ -1,12 +1,13 @@
 ---
 title: "Fotolivro Kelly"
-date: 2021-08-11T11:47:43-04:00
+date: 2021-08-10T07:47:43-04:00
 description: "Veja como ficou o fotolivro da Kelly"
 draft: true
 categories:
   - Newborn
 images:
   - /img/05.jpg  
+  
 ---
 
 # Fotolivro | Kelly | Acompanhamento

@@ -3,6 +3,7 @@ googleAnalytics = ""#googleAnalytics = "UA-123-45"
 languageCode = 'pt-br'
 title = 'Miely Casarin'
 theme = "tema01"
+paginate = 4
 [params]
     description = "Registre momentos inesquecíveis"
     author = "Miely Casarin"
@@ -15,6 +16,10 @@ theme = "tema01"
 [[menu.main]]
   name = "Blog"
   url = "/blog"
+
+[[menu.main]]
+  name = "Contato"
+  url = "/contato"
 
 [[menu.social]]
     name = "Instagram"
@@ -33,3 +38,7 @@ theme = "tema01"
 [[menu.footer]]
   name = "Privacidade"
   url = "/privacidade"
+
+[[menu.main]]
+    name = "Categorias"
+    url = "/categories"

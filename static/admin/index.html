@@ -16,20 +16,25 @@
       CMS.registerPreviewStyle("/css/admin.css");
       
       //cria um preview para o editor
+      function formatDate(date){
+        //if(date && date.toLocaleDateString) return date.toLocaleDateString('pt')
+        return date.toString ? date.toString() : ''
+      }
+
       var PostPreview = createClass({
         render: function() {
           var entry = this.props.entry;
-          var dt = '';//entry.getIn(['data', 'date']);//ta salvando com GMT, tem que remover isso.
-          console.log(entry.getIn(['data', 'date']));
+          var dt = entry.getIn(['data', 'date']);//ta salvando com GMT, tem que remover isso.
+         
           return h('div', {},
             h('div',{className:'cardPreview'},
-              entry.getIn(['data','images']).map(function(img, index) {
-                    return h('img', {src: img})
-              }),
+              //entry.getIn(['data','images']).map(function(img, index) {
+              //      return h('img', {src: img})
+              //}),
               h('div',{className:'cardContetPreview'},
                 h('a', {href:''}, entry.getIn(['data', 'title'])),
                 h('div',{},
-                  h('small', {}, dt),
+                  h('small', {}, formatDate(dt)),
                 ),
                 h('p', {}, entry.getIn(['data', 'description'])),                
                 h('p', {className:'tagPreview'}, entry.getIn(['data', 'categories'])),

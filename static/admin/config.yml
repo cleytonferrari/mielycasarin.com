@@ -5,6 +5,7 @@ media_folder: static/img
 public_folder: /img
 collections:
   - name: pages
+    label: 'Páginas'
     files:
       - name: about
         label: 'Sobre'

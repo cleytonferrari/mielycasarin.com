@@ -1,14 +1,12 @@
 ---
-title: "Fotolivro Kelly"
+title: Fotolivro Kelly
 date: 2021-08-10T07:47:43-04:00
-description: "Veja como ficou o fotolivro da Kelly"
+description: Veja como ficou o fotolivro da Kelly
 categories:
   - Newborn
 images:
-  - /img/05.jpg  
-  
+  - /img/05.jpg
 ---
-
 # Fotolivro | Kelly | Acompanhamento
 
 This is a paragraph.
@@ -16,21 +14,23 @@ This is a paragraph.
 This another paragraph with *emphasis* and **strong emphasis**.
 
 ## H2 level title
+
 ### H3 level title
 
 [This is a hyperlink](http://www.google.com/)
 
 I like lists because they are:
 
-- fun
-+ easy, and
+* fun
+* easy, and
 * fast.
 
 Lists can also be ordered:
 
 1. First element
 2. Second element
-  - with an unordered sublist
+
+* with an unordered sublist
 
 And you can add tables:
 
@@ -40,11 +40,13 @@ And you can add tables:
 | This     | is       | content  |
 
 ## Vídeo de exemplo
+
 Este é um vídeo de exemplo
 
 {{< youtube 9GrgTimVEjg >}}
 
 ## Exemplo de twitter
+
 Este é um exemplo de twitter
 
 {{< tweet 1324033076654149633 >}}

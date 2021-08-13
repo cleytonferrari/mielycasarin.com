@@ -15,7 +15,32 @@
     <script>
       CMS.registerPreviewStyle("/css/admin.css");
       
-      
+      //cria um preview para o editor
+      var PostPreview = createClass({
+        render: function() {
+          var entry = this.props.entry;
+          
+          return h('div', {},
+            h('div',{className:'cardPreview'},
+              entry.getIn(['data','images']).map(function(img, index) {
+                    return h('img', {src: img})
+              }),
+              h('div',{className:'cardContetPreview'},
+                h('a', {href:''}, entry.getIn(['data', 'title'])),
+                h('div',{},
+                  h('small', {className:"green"}, entry.getIn(['data', 'date'])),
+                ),
+                h('p', {}, entry.getIn(['data', 'description'])),                
+                h('p', {className:'tagPreview'}, entry.getIn(['data', 'categories'])),
+              ),
+            ),
+            h('div', {"className": "text"}, this.props.widgetFor('body'))
+          );
+        }
+      });
+    
+      CMS.registerPreviewTemplate("blog", PostPreview);
     </script>
+
   </body>
 </html>

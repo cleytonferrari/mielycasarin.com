@@ -1,9 +1,17 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
+  site_domain: localhost
+  repo: cleytonferrari/mielycasarin.com
 locale: 'pt'
 media_folder: static/img
 public_folder: /img
+#logo_url: https://your-site.com/images/logo.svg
+
+#editoria, cria um fluxo de trabalho (editar, revisar, pronto, publicar) 
+#https://www.netlifycms.org/docs/configuration-options/#publish-mode
+#publish_mode: editorial_workflow 
+
 collections:
   - name: pages
     label: 'Páginas'
@@ -56,10 +64,10 @@ collections:
         field: date
         # groups items based on the value matched by the pattern
         pattern: \d{4}
-      - label: Título
-        field: title
+      - label: Categoria
+        field: categories
         # groups items based on the value matched by the pattern
-        pattern: '.{3,}'
+        pattern: '.{20,}'
     editor:
       preview: true
     fields:

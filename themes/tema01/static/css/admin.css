@@ -12,6 +12,47 @@ body {
 }
 
 h1{
-    font-size: 3rem;
+    font-size: 2rem;
     color: #363636;
+}
+
+img{
+    width: 100%;
+    max-width: 800px;
+}
+.cardPreview{
+    background-color: #fff;
+    box-shadow: 0 2px 3px rgb(10 10 10 / 10%), 0 0 0 1px rgb(10 10 10 / 10%);
+    color: #4a4a4a;
+    min-width: 250px;
+    max-width: 450px;
+    position: relative;
+}
+.cardContetPreview {
+    background-color: transparent;
+    padding: 1.5rem;
+}
+.cardContetPreview a{
+    font-size: 1.5rem;
+    cursor: pointer;
+    text-decoration: none;
+    color: #4a4a4a;
+}
+.tagPreview{
+    align-items: center;
+    
+    flex-wrap: wrap;
+    
+    float: right!important;
+    background-color: #00d1b2;
+    color: #fff;
+    margin: 0 -24px;
+    display: inline-flex;
+    font-size: .75rem;
+    height: 2em;
+    justify-content: center;
+    line-height: 1.5;
+    padding-left: .75em;
+    padding-right: .75em;
+    white-space: nowrap;
 }

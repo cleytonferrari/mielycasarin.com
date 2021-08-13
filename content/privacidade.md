@@ -1,6 +1,5 @@
 ---
 title: "TERMO DE USO E POLÍTICA DE PRIVACIDADE"
-date: 2021-08-12T11:12:24-04:00
 ---
 
 Em tudo que a gente faz, buscamos proteger nossos dados e informações. A gente sabe que para você também é assim. Seus dados pessoais são bens valiosos que devem ser preservados. Por isso você precisa saber exatamente como eles podem ser utilizados. Foi justamente para isso que criamos esse Termo de Uso e Política de Privacidade.

@@ -1,6 +1,5 @@
 ---
 title: "Contato"
-date: 2021-08-12T11:38:47-04:00
 layout: contato
 buttons:
 - name: Fone/Whats

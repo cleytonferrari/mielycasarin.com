@@ -36,6 +36,7 @@ collections:
     label: 'Blog'
     folder: 'content/blog'
     create: true
+    path: '{{year}}/{{slug}}' #Beta https://www.netlifycms.org/docs/beta-features/#folder-collections-path
     #slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: true

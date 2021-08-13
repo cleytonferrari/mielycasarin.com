@@ -1,6 +1,6 @@
 ---
 title: "Sobre min"
-date: 2021-08-12T10:32:58-04:00
+
 layout: sobre
 heroimage: /img/autor.webp
 herotext: "Registrando momentos inesquecíveis"

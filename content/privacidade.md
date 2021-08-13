@@ -1,31 +1,34 @@
 ---
-title: "TERMO DE USO E POLÍTICA DE PRIVACIDADE"
+title: TERMO DE USO E POLÍTICA DE PRIVACIDADE
 ---
-
-Em tudo que a gente faz, buscamos proteger nossos dados e informações. A gente sabe que para você também é assim. Seus dados pessoais são bens valiosos que devem ser preservados. Por isso você precisa saber exatamente como eles podem ser utilizados. Foi justamente para isso que criamos esse Termo de Uso e Política de Privacidade.
+Em tudo que a gente faz, buscamos proteger nossos dados e informações. A gente sabe que para você também é assim. Seus dados pessoais são bens valiosos que devem ser preservados. Por isso você precisa saber exatamente como eles podem ser utilizados. Foi justamente para isso que criamos esse **Termo de Uso e Política de Privacidade**.
 
 ### 1. Aceitação do Termo de Uso e Política de Privacidade
+
 Ao acessar e utilizar os serviços disponibilizados por esta Plataforma, o usuário confirma que leu, compreendeu e concordou com o Termo de Uso e a Política de Privacidade aplicáveis à ferramenta e aos serviços por ela fornecidos.
 
 ### 2. Finalidade
+
 Miely Casarin Fotografias, considerando:
 
 1. a Lei nº 13.709, de 14 de agosto de 2018, denominada Lei Geral de Proteção de Dados Pessoais, reafirma os seguintes fundamentos:
-- respeito à privacidade;
-- autodeterminação informativa;
-- liberdade de expressão, de informação, de comunicação e de opinião;
-- inviolabilidade da intimidade, da honra e da imagem;
-- desenvolvimento econômico e tecnológico e inovação;
-- livre iniciativa, livre concorrência e defesa do consumidor; e
-- direitos humanos, livre desenvolvimento da personalidade, dignidade e exercício da cidadania pelas pessoas naturais;
+
+* respeito à privacidade;
+* autodeterminação informativa;
+* liberdade de expressão, de informação, de comunicação e de opinião;
+* inviolabilidade da intimidade, da honra e da imagem;
+* desenvolvimento econômico e tecnológico e inovação;
+* livre iniciativa, livre concorrência e defesa do consumidor; e
+* direitos humanos, livre desenvolvimento da personalidade, dignidade e exercício da cidadania pelas pessoas naturais;
+
 2. a Lei nº 12.527, de 18 de novembro de 2011, intitulada Lei de Acesso à Informação (LAI);
 3. a Lei nº 12.965, de 23 de abril de 2014, nominada como Marco Civil da Internet;
 
 Compromete-se, tornando pública e acessível a seus usuários, demais partes interessadas e público em geral, a presente Declaração, que passa a vigorar.
 
 ### 3. Definições
-Para os fins deste Termo de Uso e Política de Privacidade, consideram-se:
 
+Para os fins deste Termo de Uso e Política de Privacidade, consideram-se:
 
 **Códigos maliciosos:** é qualquer programa de computador, ou parte de um programa, construído com a intenção de provocar danos, obter informações não autorizadas ou interromper o funcionamento de sistemas e/ou redes de computadores;
 
@@ -58,9 +61,11 @@ Para os fins deste Termo de Uso e Política de Privacidade, consideram-se:
 **Segurança da informação:** conjunto de práticas e métodos voltados para a preservação da confidencialidade, integridade e disponibilidade da informação.
 
 ### 4. Direitos do Usuário:
+
 O usuário terá o direito de obter do controlador, ou seja, do custodiante dos dados, a qualquer momento e mediante requisição formal, o acesso aos respectivos dados, consoante previsão legal.
 
 ### 5. Responsabilidade
+
 Miely Casarin Fotografias
 
 Responsáveis por acompanhar, analisar e responder as contribuições apresentadas pelos usuários.
@@ -79,7 +84,7 @@ Em nenhuma hipótese Miely Casarin Fotografias será responsável pela instalaç
 
 **Usuário**
 
-O Usuário se responsabiliza pela precisão e veracidade dos dados informados no cadastro e reconhece que a inconsistência destes poderá implicar a impossibilidade de utilizar serviços forneceidos por Miely Casarin Fotografias.
+O Usuário se responsabiliza pela precisão e veracidade dos dados informados no cadastro e reconhece que a inconsistência destes poderá implicar a impossibilidade de utilizar serviços fornecidos por Miely Casarin Fotografias.
 
 A visualização e o envio de contribuições nos documentos disponibilizados nesta plataforma, condicionam-se ao aceite expresso do presente Termo de Uso e Política de Privacidade, bem como à realização de cadastro nos sistemas, com a criação de perfil de acesso (login e senha), além da confirmação de ciência de cadastro restrito a maiores de 18 anos.
 
@@ -90,4 +95,3 @@ O login e senha só poderão ser utilizados pelo usuário cadastrado. Este deve 
 O Usuário deste site é responsável pela atualização das suas informações pessoais e consequências na omissão ou erros nas informações pessoais cadastradas.
 
 O Usuário é responsável pela reparação de todos e quaisquer danos, diretos ou indiretos (inclusive decorrentes de violação de quaisquer direitos de outros usuários, de terceiros, inclusive direitos de propriedade intelectual, de sigilo e de personalidade), que sejam causados à Miely Casarin Fotografias, a qualquer outro Usuário, ou, ainda, a qualquer terceiro, inclusive em virtude do descumprimento do disposto nestes Termo de Uso e Política de Privacidade ou de qualquer ato praticado a partir de seu acesso à Internet, ao sítio e/ou Aplicativo.
-

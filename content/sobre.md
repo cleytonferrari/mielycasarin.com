@@ -1,9 +1,8 @@
 ---
-title: "Sobre min"
-
+title: Sobre min
 layout: sobre
-heroimage: /img/autor.webp
-herotext: "Registrando momentos inesquecíveis"
+herotext: Registrando momentos inesquecíveis
+heroimage: /img/01.jpg
 ---
 
 # Miely Casarin

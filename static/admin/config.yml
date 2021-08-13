@@ -51,6 +51,15 @@ collections:
       - label: Aniversário
         field: categories
         pattern: 'Aniversário'
+    view_groups:
+      - label: Ano
+        field: date
+        # groups items based on the value matched by the pattern
+        pattern: \d{4}
+      - label: Título
+        field: title
+        # groups items based on the value matched by the pattern
+        pattern: '.{3,}'
     editor:
       preview: true
     fields:

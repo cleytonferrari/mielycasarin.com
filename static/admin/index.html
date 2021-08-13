@@ -10,24 +10,11 @@
   <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
-    <!--  https://github.com/campus-online/cms/blob/6651b7fc0b6e3e428b2f2c2c90b7d18dac806d0d/website/content/docs/custom-card.md -->
+    <!-- https://github.com/campus-online/cms/blob/6651b7fc0b6e3e428b2f2c2c90b7d18dac806d0d/website/content/docs/custom-card.md -->
     <!-- https://www.netlifycms.org/docs/customization/#registerpreviewtemplate -->
     <script>
-      var PostPreview = createClass({
-        render: function() {
-          var entry = this.props.entry;
-          var image = entry.getIn(['data', 'image']);
-          var bg = this.props.getAsset(image);
-          return h('div', {},
-            h('h1', {}, entry.getIn(['data', 'title'])),
-            h('h1', {}, entry.getIn(['data', 'description'])),
-            h('img', {src: bg.toString()}),
-            h('div', {"className": "text"}, this.props.widgetFor('body'))
-          );
-        }
-      });
-    
-      CMS.registerPreviewTemplate("blog", PostPreview);
+      CMS.registerPreviewStyle("/css/admin.css");
+      console.log(CMS);
     </script>
 
   </body>

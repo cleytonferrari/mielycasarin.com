@@ -37,6 +37,8 @@ collections:
     folder: 'content/blog'
     create: true
     path: '{{year}}/{{slug}}' #Beta https://www.netlifycms.org/docs/beta-features/#folder-collections-path
+    media_folder: 'static/img' #Beta https://www.netlifycms.org/docs/beta-features/#folder-collections-media-and-public-folder
+    public_folder: '/img' #Beta https://www.netlifycms.org/docs/beta-features/#folder-collections-media-and-public-folder
     #slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: true

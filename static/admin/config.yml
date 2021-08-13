@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
+locale: 'pt'
 media_folder: static/img
 public_folder: /img
 collections:
@@ -40,6 +41,16 @@ collections:
     media_folder: '/static/img/blog/{{year}}/{{month}}' #Beta https://www.netlifycms.org/docs/beta-features/#folder-collections-media-and-public-folder
     public_folder: '/img/blog/{{year}}/{{month}}' #Beta https://www.netlifycms.org/docs/beta-features/#folder-collections-media-and-public-folder
     #slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    view_filters:
+      - label: "Newborn"
+        field: categories
+        pattern: 'Newborn'
+      - label: 'Acompanhamento'
+        field: categories
+        pattern: 'Acompanhamento'
+      - label: Aniversário
+        field: categories
+        pattern: 'Aniversário'
     editor:
       preview: true
     fields:

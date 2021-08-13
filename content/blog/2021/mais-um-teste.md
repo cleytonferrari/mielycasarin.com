@@ -1,10 +1,14 @@
 ---
-title: Mais um teste
+title: Newborn Paulinho
 date: 2021-08-13T01:16:14.609Z
-description: meu resumo de teste
+description: Veja as fotos do newborn do Paulinho
 categories:
-  - Acompanhamento
+  - Newborn
 images:
   - /img/03.jpg
 ---
-conteudo de exemplo
+Veja as fotos do newborn do Paulinho
+
+![Bebe dormindo](/img/02.jpg "Lindinho")
+
+Para ver mais acesso no site <https://mielycasarin.netlify.app/blog/>

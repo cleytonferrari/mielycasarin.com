@@ -19,7 +19,8 @@
       var PostPreview = createClass({
         render: function() {
           var entry = this.props.entry;
-          
+          var dt = '';//entry.getIn(['data', 'date']);//ta salvando com GMT, tem que remover isso.
+          console.log(entry.getIn(['data', 'date']));
           return h('div', {},
             h('div',{className:'cardPreview'},
               entry.getIn(['data','images']).map(function(img, index) {
@@ -28,7 +29,7 @@
               h('div',{className:'cardContetPreview'},
                 h('a', {href:''}, entry.getIn(['data', 'title'])),
                 h('div',{},
-                  h('small', {className:"green"}, entry.getIn(['data', 'date'])),
+                  h('small', {}, dt),
                 ),
                 h('p', {}, entry.getIn(['data', 'description'])),                
                 h('p', {className:'tagPreview'}, entry.getIn(['data', 'categories'])),

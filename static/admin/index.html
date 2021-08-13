@@ -10,6 +10,7 @@
   <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <!--  https://github.com/campus-online/cms/blob/6651b7fc0b6e3e428b2f2c2c90b7d18dac806d0d/website/content/docs/custom-card.md -->
     <script>
       function formatDate(date) {
         if(date && date.toLocaleDateString) return date.toLocaleDateString('en');
@@ -29,7 +30,7 @@
         );
       }
     
-      CMS.registerEntryCard('posts', PostEntryCard);
+      CMS.registerEntryCard('blog', PostEntryCard);
     </script>
   </body>
 </html>

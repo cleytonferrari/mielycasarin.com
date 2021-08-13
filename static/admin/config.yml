@@ -49,6 +49,7 @@ collections:
     media_folder: '/static/img/blog/{{year}}/{{month}}' #Beta https://www.netlifycms.org/docs/beta-features/#folder-collections-media-and-public-folder
     public_folder: '/img/blog/{{year}}/{{month}}' #Beta https://www.netlifycms.org/docs/beta-features/#folder-collections-media-and-public-folder
     #slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    summary: "[{{categories[0]}}] - {{title}}"
     view_filters:
       - label: "Newborn"
         field: categories

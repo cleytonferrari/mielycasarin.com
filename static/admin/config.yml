@@ -1,8 +1,17 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
+  site_domain: localhost
+  repo: cleytonferrari/mielycasarin.com
+locale: 'pt'
 media_folder: static/img
 public_folder: /img
+#logo_url: https://your-site.com/images/logo.svg
+
+#editoria, cria um fluxo de trabalho (editar, revisar, pronto, publicar) 
+#https://www.netlifycms.org/docs/configuration-options/#publish-mode
+#publish_mode: editorial_workflow 
+
 collections:
   - name: pages
     label: 'Páginas'
@@ -40,6 +49,26 @@ collections:
     media_folder: '/static/img/blog/{{year}}/{{month}}' #Beta https://www.netlifycms.org/docs/beta-features/#folder-collections-media-and-public-folder
     public_folder: '/img/blog/{{year}}/{{month}}' #Beta https://www.netlifycms.org/docs/beta-features/#folder-collections-media-and-public-folder
     #slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    summary: "[{{categories[0]}}] - {{title}}"
+    view_filters:
+      - label: "Newborn"
+        field: categories
+        pattern: 'Newborn'
+      - label: 'Acompanhamento'
+        field: categories
+        pattern: 'Acompanhamento'
+      - label: Aniversário
+        field: categories
+        pattern: 'Aniversário'
+    view_groups:
+      - label: Ano
+        field: date
+        # groups items based on the value matched by the pattern
+        pattern: \d{4}
+      - label: Categoria
+        field: categories
+        # groups items based on the value matched by the pattern
+        pattern: '.{20,}'
     editor:
       preview: true
     fields:

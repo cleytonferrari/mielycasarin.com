@@ -1,0 +1,52 @@
+&LOGO'S URL ADDRESS
+&langpuburl=www.mielycasarin.com
+
+&PRELOADER MESSAGE
+&langPreloader=Carregando Páginas
+
+&RIGHT CLICK MENU
+&langFrontCover=Primeira
+&langBackCover=Última
+&langNextPage=Próxima
+&langPrevPage=Anterior
+&langActualSize=Tamanho Atual
+&langFitToPage=Preencher pagina
+&langFullScreen=Tela Cheia
+&langExitFullScreen=Sair Tela Cheia
+
+&TOP BUTTONS
+&langButActualSize=Tamanho Normal
+&langButZoomIn=Mais zoom
+&langButZoomOut=Menos zomm
+&langButFitToPage=Zoom para página
+&langButFullScreen=Ver Tela Cheia
+&langButExitFullScreen=Sair Tela Cheia
+&langButPrint=Imprimir
+&langDownloadPDF=Download
+&langButSendToFriend=Contato
+&langButVideoModule=video gallery
+&langButPhotoModule=photo gallery
+
+
+&BOTTOM NAVIGATION
+&langButFrontCover=Primeira
+&langButPrevPage=Anterior
+&langButGoToPage=Ir para página
+&langButNextPage=Próxima
+&langButBackCover=Última
+
+&PRINT OPTION TEXT
+&langSelectPrint=Selecione página para Imprimir
+&langLeftPrint=Página Esquerda
+&langRightPrint=Página Direita
+
+&CONTACT FORM
+&langYourEmail=Seu e-mail:
+&langYourName=Seu nome:
+&langYourMessage=Sua mensagem:
+&langClear=Limpar
+&langSend=Enviar
+&langSent=Sua mensagem foi enviada
+
+&langButClose=Fechar
+&loadedLang=1

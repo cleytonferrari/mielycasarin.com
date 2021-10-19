@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+  <gallery Name="Neighbourhood" Folder="photos/Galley06">
+    <image Thumb="thb/thb01.jpg" Large="ne01.jpg" Caption="My Neighbourhood 1">
+    </image>
+    <image Thumb="thb/thb02.jpg" Large="ne02.jpg" Caption="My Neighbourhood 2">
+    </image>
+    <image Thumb="thb/thb03.jpg" Large="ne03.jpg" Caption="My Neighbourhood 3">
+    </image>
+  </gallery>
+</content>

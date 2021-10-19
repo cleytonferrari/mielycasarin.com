@@ -1,0 +1,62 @@
+<!-- "width" and "height" define the width and height of the pages (ideally will be the same with the pages you create) -->
+<!-- "BackgroundColor" define the main background of the publication--------------------------------------------------- -->
+<!-- "IconsBackgroundColor" define the background of the top line, bottom navigation, print module and contact module-- -->
+<!-- "IconsColor" is used to set the color of the top line and bottom navigation icons--------------------------------- -->	
+<!-- "Textcolor" is used for the text that apear on the print and contact modules-------------------------------------- -->
+<!-- use "EmailAddress" to receive emails from the contact module------------------------------------------------------ -->
+<!-- "PdfPath" define the path to your publication in any format------------------------------------------------------- -->
+	
+<content 
+	width="449" height="620" 
+	BackgroundColor="bab9b9"
+	IconsBackgroundColor="2c1626" 
+	IconsColor="ffffff"
+	TextColor="cccccc"
+	EmailAddress ="mielycasarin@hotmail.com"
+>
+
+	<!-- write below the path to your publication pages----------------------------- -->
+	<page src="pages/a2.jpg"/>
+	<page src="pages/a3.jpg"/>
+	<page src="pages/a4.jpg"/>
+	<page src="pages/a5.jpg"/>
+	<page src="pages/a6.jpg"/>
+	<page src="pages/a7.jpg"/>
+	<page src="pages/a8.jpg"/>
+	<page src="pages/a9.jpg"/>
+	<page src="pages/a10.jpg"/>
+	<page src="pages/a11.jpg"/>
+	<page src="pages/a12.jpg"/>
+	<page src="pages/a13.jpg"/>
+	<page src="pages/a14.jpg"/>
+	<page src="pages/a15.jpg"/>
+	<page src="pages/a16.jpg"/>
+	<page src="pages/a17.jpg"/>
+	<page src="pages/a18.jpg"/>
+	<page src="pages/a19.jpg"/>
+	<page src="pages/a20.jpg"/>
+	<page src="pages/a21.jpg"/>
+	<page src="pages/a22.jpg"/>
+	<page src="pages/a23.jpg"/>
+	<page src="pages/a24.jpg"/>
+	<page src="pages/a25.jpg"/>
+	<page src="pages/a26.jpg"/>
+	<page src="pages/a27.jpg"/>
+	<page src="pages/a28.jpg"/>
+	<page src="pages/a29.jpg"/>
+	<page src="pages/a30.jpg"/>
+	<page src="pages/a31.jpg"/>
+	<page src="pages/a32.jpg"/>
+	<page src="pages/a33.jpg"/>
+	<page src="pages/a34.jpg"/>
+	<page src="pages/a35.jpg"/>
+	<page src="pages/a36.jpg"/>
+	<page src="pages/a37.jpg"/>
+	<page src="pages/a38.jpg"/>
+	<page src="pages/a39.jpg"/>
+	<page src="pages/a40.jpg"/>
+	<page src="pages/a41.jpg"/>
+	<page src="pages/a42.jpg"/>
+	<page src="pages/a.jpg"/>
+	
+</content>

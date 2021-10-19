@@ -1,0 +1,5 @@
+<!-- write below the path to your mp3 tracks, the artist name and the track title ------- -->
+<?xml version="1.0"?>
+<songs>
+	<song url= "tracks/001.mp3" artist="Te Amaria Outra Vez - Fernanda Brum" track="Te Amaria Outra Vez - Fernanda Brum"/>
+</songs>

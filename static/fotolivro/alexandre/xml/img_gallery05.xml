@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+  <gallery Name="My Wedding Album" Folder="photos/Galley05">
+    <image Thumb="thb/thb01.jpg" Large="wedd01.jpg" Caption="My Wedding Album 1">
+    </image>
+    <image Thumb="thb/thb02.jpg" Large="wedd02.jpg" Caption="My Wedding Album 2">
+    </image>
+    <image Thumb="thb/thb03.jpg" Large="wedd03.jpg" Caption="My Wedding Album 3">
+    </image>
+  </gallery>
+</content>

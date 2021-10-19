@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+  <gallery Name="Yoga Training" Folder="photos/Galley07">
+    <image Thumb="thb/thb01.jpg" Large="yo01.jpg" Caption="Yoga Training 1">
+    </image>
+    <image Thumb="thb/thb02.jpg" Large="yo02.jpg" Caption="Yoga Training 2">
+    </image>
+    <image Thumb="thb/thb03.jpg" Large="yo03.jpg" Caption="Yoga Training 3">
+    </image>
+  </gallery>
+</content>

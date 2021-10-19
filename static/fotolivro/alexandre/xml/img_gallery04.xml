@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+  <gallery Name="Artworks by Pascal Chove" Folder="photos/Galley04">
+    <image Thumb="thb/thb01.jpg" Large="apc01.jpg" Caption="Artworks by Pascal Chove 1">
+    </image>
+    <image Thumb="thb/thb02.jpg" Large="apc02.jpg" Caption="Artworks by Pascal Chove 2">
+    </image>
+    <image Thumb="thb/thb03.jpg" Large="apc03.jpg" Caption="Artworks by Pascal Chove 3">
+    </image>
+  </gallery>
+</content>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+  <gallery Name="Last Christmas" Folder="photos/Galley03">
+    <image Thumb="thb/thb01.jpg" Large="chr01.jpg" Caption="Last Christmas 1">
+    </image>
+    <image Thumb="thb/thb02.jpg" Large="chr02.jpg" Caption="Last Christmas 2">
+    </image>
+    <image Thumb="thb/thb03.jpg" Large="chr03.jpg" Caption="Last Christmas 3">
+    </image>
+  </gallery>
+</content>

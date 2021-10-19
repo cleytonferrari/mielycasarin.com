@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+  <gallery Name="My House Construction" Folder="photos/Galley02">
+    <image Thumb="thb/thb01.jpg" Large="cons01.jpg" Caption="Constructing My House 1">
+    </image>
+    <image Thumb="thb/thb02.jpg" Large="cons02.jpg" Caption="Constructing My House 2">
+    </image>
+    <image Thumb="thb/thb03.jpg" Large="cons03.jpg" Caption="Constructing My House 3">
+    </image>
+  </gallery>
+</content>

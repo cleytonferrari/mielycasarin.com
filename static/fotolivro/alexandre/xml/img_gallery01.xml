@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+  <gallery Name="A Day at The Spa" Folder="photos/Galley01">
+    <image Thumb="thb/thb01.jpg" Large="spa01.jpg" Caption="A Day at The Spa 1">
+    </image>
+    <image Thumb="thb/thb02.jpg" Large="spa02.jpg" Caption="A Day at The Spa 2">
+    </image>
+    <image Thumb="thb/thb03.jpg" Large="spa03.jpg" Caption="A Day at The Spa 3">
+    </image>
+  </gallery>
+</content>

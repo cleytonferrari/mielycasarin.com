@@ -1,0 +1,7 @@
+
+<!-- write below the path to your mp3 tracks, the artist name and the track title ------- -->
+
+<?xml version="1.0"?>
+<songs>
+	<track path="tracks/001.mp3" title="Minha Musica" name="Minha Musica"/>
+</songs>

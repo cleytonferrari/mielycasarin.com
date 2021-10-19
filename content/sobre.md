@@ -2,7 +2,7 @@
 title: Sobre min
 layout: sobre
 herotext: Registrando momentos inesquecíveis
-heroimage: /img/autor.webp
+heroimage: /img/131.jpg
 ---
 
 ## Miely Casarin

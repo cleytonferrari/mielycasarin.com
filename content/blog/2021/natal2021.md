@@ -24,7 +24,7 @@ Como existe muita procura para as sessões de Natal e o número de vagas é limi
 Para o Natal de 2021, estamos trabalhando com 03 pacotes, escolha seu pacote abaixo.
 
 ### Pacote 01
->**Investimento R$ 190,00**
+>**Investimento R$ 190,00** - [Contratar agora este pacote.](https://api.whatsapp.com/send?phone=+5569999132995&text=Gostaria%20de%20contratar%20o%20Pacote%2001%20do%20Natal%202021,%20pode%20me%20ajudar?)
 * 01 cenário inédito
 * Sessão de 30 minutos com 10 fotos
 * Figurino da criança
@@ -34,7 +34,7 @@ Para o Natal de 2021, estamos trabalhando com 03 pacotes, escolha seu pacote aba
 
 
 ### Pacote 02
->**Investimento R$ 250,00**
+>**Investimento R$ 250,00** - [Contratar agora este pacote.](https://api.whatsapp.com/send?phone=+5569999132995&text=Gostaria%20de%20contratar%20o%20Pacote%2002%20do%20Natal%202021,%20pode%20me%20ajudar?)
 * 02 cenários inéditos
 * Sessão de 1 hora com 15 fotos
 * Figurino da criança
@@ -42,7 +42,7 @@ Para o Natal de 2021, estamos trabalhando com 03 pacotes, escolha seu pacote aba
 ![Natal 2021](/img/natal2021/032.jpg)
 
 ### Pacote 03
->**Investimento R$ 300,00**
+>**Investimento R$ 300,00** - [Contratar agora este pacote.](https://api.whatsapp.com/send?phone=+5569999132995&text=Gostaria%20de%20contratar%20o%20Pacote%2003%20do%20Natal%202021,%20pode%20me%20ajudar?)
 * 03 cenários inéditos
 * Sessão de 2 hora com 20 fotos
 * Figurino da criança
